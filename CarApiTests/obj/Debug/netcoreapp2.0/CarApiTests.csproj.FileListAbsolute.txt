@@ -1,0 +1,17 @@
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/CarApiTests.deps.json
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/CarApiTests.runtimeconfig.json
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/CarApiTests.runtimeconfig.dev.json
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/CarApiTests.dll
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/CarApiTests.pdb
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/CarAPI.dll
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/bin/Debug/netcoreapp2.0/CarAPI.pdb
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/obj/Debug/netcoreapp2.0/CarApiTests.csprojResolveAssemblyReference.cache
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/obj/Debug/netcoreapp2.0/CarApiTests.csproj.CoreCompileInputs.cache
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/obj/Debug/netcoreapp2.0/CarApiTests.AssemblyInfoInputs.cache
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/obj/Debug/netcoreapp2.0/CarApiTests.AssemblyInfo.cs
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/obj/Debug/netcoreapp2.0/CarApiTests.dll
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarApiTests/obj/Debug/netcoreapp2.0/CarApiTests.pdb

@@ -1,0 +1,11 @@
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/bin/Debug/netcoreapp2.0/CarAPI.deps.json
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/bin/Debug/netcoreapp2.0/CarAPI.runtimeconfig.json
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/bin/Debug/netcoreapp2.0/CarAPI.runtimeconfig.dev.json
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/bin/Debug/netcoreapp2.0/CarAPI.dll
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/bin/Debug/netcoreapp2.0/CarAPI.pdb
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/obj/Debug/netcoreapp2.0/CarAPI.csproj.CoreCompileInputs.cache
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/obj/Debug/netcoreapp2.0/CarAPI.AssemblyInfoInputs.cache
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/obj/Debug/netcoreapp2.0/CarAPI.AssemblyInfo.cs
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/obj/Debug/netcoreapp2.0/CarAPI.dll
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/obj/Debug/netcoreapp2.0/CarAPI.pdb
+/Users/vakhrameevanton/RiderProjects/CarAPI/CarAPI/obj/Debug/netcoreapp2.0/CarAPI.csprojResolveAssemblyReference.cache
