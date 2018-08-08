@@ -29,7 +29,7 @@ namespace CarAPI.DataService
         {
             var collection = Db.GetCollection<Car>("cars");
 
-            if (needUpDateDescription)
+            if (needUpdateDescription)
                 collection.UpdateOne(Builders<Car>.Filter.Eq("_id", car.Id),
                     Builders<Car>.Update.Set("Description", car.Description),
                     new UpdateOptions {IsUpsert = false});
